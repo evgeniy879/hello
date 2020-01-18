@@ -1,4 +1,1 @@
 hello git!
-hello git and world!
-hello git, world and geekbrains!!!
-hi there
